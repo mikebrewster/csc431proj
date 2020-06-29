@@ -1,0 +1,31 @@
+ Volume in drive C is TI10708100A
+ Volume Serial Number is 5424-A810
+
+ Directory of C:\Users\Mike\Desktop\CSC 431\eclipse-workspace\mini\src\ast
+
+[.]                         [..]
+AbstractExpression.java     AbstractStatement.java
+AssignmentStatement.java    BinaryExpression.java
+BlockStatement.java         BoolType.java
+ConditionalStatement.java   Declaration.java
+DeleteStatement.java        DotExpression.java
+Expression.java             FalseExpression.java
+files.txt                   Function.java
+FunctionType.java           IdentifierExpression.java
+IntegerExpression.java      IntType.java
+InvocationExpression.java   InvocationStatement.java
+Lvalue.java                 LvalueDot.java
+LvalueId.java               NewExpression.java
+NullExpression.java         NullType.java
+PrintLnStatement.java       PrintStatement.java
+Program.java                ReadExpression.java
+ReadType.java               ReturnEmptyStatement.java
+ReturnStatement.java        Statement.java
+StructTable.java            StructTableEntry.java
+StructType.java             SymbolTable.java
+SymbolTableEntry.java       temp.txt
+TrueExpression.java         Type.java
+TypeDeclaration.java        UnaryExpression.java
+VoidType.java               WhileStatement.java
+              46 File(s)         44,370 bytes
+               2 Dir(s)  566,635,761,664 bytes free
